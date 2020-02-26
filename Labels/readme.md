@@ -8,3 +8,15 @@ http://arxiv.org/pdf/1912.05086v1.pdf
 
 Solving Missing-Annotation Object Detection with Background Recalibration Loss
 https://arxiv.org/abs/2002.05274
+
+
+Soft Sampling for Robust Object Detection
+https://arxiv.org/pdf/1806.06986v2.pdf
+
+
+Uncertainty Based Detection and Relabeling of Noisy Image Labels
+https://arxiv.org/abs/1906.11876
+
+
+
+https://mp.weixin.qq.com/s?src=11&timestamp=1582645089&ver=2180&signature=k-*sNLew9i3vX-fOTGV0lgR0h365Pm4-bXNE1G-JKeNhkC4lBx7hCeDFsCHiSeeUNQkWO3zU0LbV3N84fh5GJXe2chz6OcrrMe1RGbjf-CNCdRkViqVgFvzuHqSF*5di&new=1
