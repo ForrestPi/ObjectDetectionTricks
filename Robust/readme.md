@@ -10,3 +10,7 @@ Towards Adversarially Robust Object Detection
 
 Uncertainty Based Detection and Relabeling of Noisy Image Labels
 <https://arxiv.org/pdf/1906.11876.pdf>
+
+
+A General and Adaptive Robust Loss Function
+<https://arxiv.org/abs/1701.03077>
