@@ -11,3 +11,7 @@ http://xxx.itp.ac.cn/pdf/1901.05555v1.pdf
 
 A General and Adaptive Robust Loss Function
 http://openaccess.thecvf.com/content_CVPR_2019/papers/Barron_A_General_and_Adaptive_Robust_Loss_Function_CVPR_2019_paper.pdf
+
+
+
+https://github.com/yihui-he/KL-Loss
