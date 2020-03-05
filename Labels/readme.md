@@ -18,5 +18,8 @@ Uncertainty Based Detection and Relabeling of Noisy Image Labels
 https://arxiv.org/abs/1906.11876
 
 
+Towards Noise-resistant Object Detection with Noisy Annotations
+https://arxiv.org/pdf/2003.01285.pdf
+
 
 https://mp.weixin.qq.com/s?src=11&timestamp=1582645089&ver=2180&signature=k-*sNLew9i3vX-fOTGV0lgR0h365Pm4-bXNE1G-JKeNhkC4lBx7hCeDFsCHiSeeUNQkWO3zU0LbV3N84fh5GJXe2chz6OcrrMe1RGbjf-CNCdRkViqVgFvzuHqSF*5di&new=1
