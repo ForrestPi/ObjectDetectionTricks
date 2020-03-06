@@ -15,3 +15,43 @@ http://openaccess.thecvf.com/content_CVPR_2019/papers/Barron_A_General_and_Adapt
 
 
 https://github.com/yihui-he/KL-Loss
+
+
+Locating Objects Without Bounding Boxes
+http://openaccess.thecvf.com/content_CVPR_2019/papers/Ribera_Locating_Objects_Without_Bounding_Boxes_CVPR_2019_paper.pdf
+
+
+Fast Efficient Object Detection Using Selective Attention
+https://arxiv.org/pdf/1811.07502v1.pdf
+
+Anchor Box Optimization for Object Detection
+https://arxiv.org/pdf/1812.00469v2.pdf
+	
+Learning from Noisy Anchors for One-stage Object Detection
+https://arxiv.org/pdf/1912.05086v1.pdf
+
+
+Recent Advances in Deep Learning for Object Detection
+https://arxiv.org/pdf/1908.03673v1.pdf
+
+	
+MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection
+https://arxiv.org/pdf/2001.03194.pdf
+
+
+Continual Universal Object Detection
+https://arxiv.org/pdf/2002.05347.pdf
+
+
+SpotNet: Self-Attention Multi-Task Network for Object Detection
+https://arxiv.org/pdf/2002.05540.pdf
+
+Prime Sample Attention in Object Detection
+https://arxiv.org/pdf/1904.04821v2.pdf
+
+Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection
+https://arxiv.org/pdf/1912.02424v1.pdf
+
+
+Accelerating Object Detection by Erasing Background Activations
+https://arxiv.org/pdf/2002.01609.pdf
