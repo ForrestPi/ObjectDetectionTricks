@@ -71,3 +71,9 @@ https://arxiv.org/pdf/1911.12448.pdf
 
 Multiple Anchor Learning for Visual Object Detection
 https://arxiv.org/pdf/1912.02252v1.pdf
+
+
+
+Efficacy of Pixel-Level OOD Detection for Semantic Segmentation
+http://arxiv.org/pdf/1911.02897v1.pdf
+First, the candidate methods are top performers on image classiﬁcation datasets. Second, they must be computationally feasible for semantic segmentation. Max Softmax (Hendrycks & Gimpel, 2016), ODIN (Liang et al., 2017), Mahalanobis (Lee et al., 2018) and Conﬁdence (DeVries & Taylor, 2018) ﬁt both criteria. The Entropy (Mukhoti & Gal, 2018), Sum of Variances (VarSum) (Kendall et al., 2015), and Mutual Information (Mukhoti & Gal, 2018) methods do not meet the ﬁrst criterion, but are included as an existing uncertainty baseline for the pixel-level OOD classiﬁcation. 

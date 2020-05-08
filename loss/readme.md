@@ -55,3 +55,26 @@ https://arxiv.org/pdf/1912.02424v1.pdf
 
 Accelerating Object Detection by Erasing Background Activations
 https://arxiv.org/pdf/2002.01609.pdf
+
+
+DR Loss: Improving Object Detection by Distributional Ranking
+https://arxiv.org/abs/1907.10156v1
+https://arxiv.org/pdf/1907.10156v1.pdf
+
+
+Automated Focal Loss for Image based Object Detection
+https://arxiv.org/pdf/1904.09048v1.pdf
+
+
+Consistent Optimization for Single-Shot Object Detection
+https://arxiv.org/abs/1901.06563
+
+
+Adapted Center and Scale Prediction: More stable and More Accurate
+https://arxiv.org/pdf/2002.09053.pdf
+
+Soft Anchor-Point Object Detection
+
+Side-Aware Boundary Localization for More Precise Object Detection
+http://arxiv.org/pdf/1912.04260v1.pdf
+
